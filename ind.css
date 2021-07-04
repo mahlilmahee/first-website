@@ -1,0 +1,39 @@
+h1{font-family: 'Bona Nova', serif;}
+.halfbaby{
+   display: flex;
+}
+.sameline{
+     width: 50%;
+     margin-left: 100px;
+
+}
+img{
+    width: 70%;
+}
+p{
+     width: 400px;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+b{
+    color: rgb(240, 88, 42);
+}
+a{
+     text-decoration: none;
+     color: rgb(10, 10, 9);
+}
+button{
+     border: 3px solid rgb(228, 217, 228);
+     background-color: rgb(250, 97, 9);
+     width: 100px;
+     height: 30px;
+     border-radius: 20px;
+}
+button:hover{
+     color: gray;
+     background-color: greenyellow;
+
+}
+.halfbaby{
+     background-image: url(images/top-banner.png);
+     background-repeat: no-repeat;
+}
